@@ -1,2 +1,2 @@
-# magicalbrainlesss.github.io
+# Артем Исаджанян
 Мой первый сайт
